@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FingerPaint!</string>
+    <string name="app_name">Finger Paint</string>
+    <string name="window_icon">window_icon</string>
+    <string name="hide">hide</string>
+    <string name="close">close</string>
+    <string name="corner">corner</string>
+</resources>
